@@ -1,5 +1,0 @@
-*.pyc
-__pycache__
-GameHunterVenv
-db.mysql
-.DS_Store
